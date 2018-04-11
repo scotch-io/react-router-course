@@ -7,7 +7,7 @@
     "url": "https://github.com/searsaw/react-router-demo.git"
   },
   "engines": {
-    "node": "6.10.3"
+    "node": ">=6.10.3"
   },
   "scripts": {
     "clear": "rimraf -rf dist",
